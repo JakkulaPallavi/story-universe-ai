@@ -279,4 +279,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with ❤️ and Claude AI*
+*Built by Jakkula Pallavi*
